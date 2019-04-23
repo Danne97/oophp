@@ -1,3 +1,3 @@
-#### Footer col 2
+#### Länkar
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+[Här](http://www.student.bth.se/~dahg17/dbwebb-kurser/) är en länk till mina andra kurser.
